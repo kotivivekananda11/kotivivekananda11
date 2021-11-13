@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kotivivekananda11
 - 👀 I’m interested in ...Machine learning and app dev
 - 🌱 I’m currently learning ...Android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 kotivivekananda11/kotivivekananda11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
