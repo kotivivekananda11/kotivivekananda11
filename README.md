@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotivivekananda11
 - 👀 I’m interested in ...Machine learning and app dev
-- 🌱 I’m currently learning ...Android
+- 🌱 I’m currently learning ...Flutter
 
 
 <!---
